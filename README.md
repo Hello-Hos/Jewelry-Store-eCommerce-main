@@ -1,6 +1,5 @@
-# DNX-Jewelry-Store-eCommerce 💍🛍️
+# Ruby Jewellery 💍🛍️
 
-## Welcome to DNX Jewelry Store eCommerce!
 
 This project is an online platform for purchasing exquisite jewelry items. The application is designed to provide a seamless shopping experience for users interested in high-quality jewelry.
 
@@ -30,12 +29,3 @@ This project is an online platform for purchasing exquisite jewelry items. The a
 ### Responsive Design 📱
 
 - Enjoy a seamless shopping experience across various devices.
-
-## Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/DNXEMPIRE-1/jewelry-store-ecommerce.git
-   cd jewelry-store-ecommerce
-
-This template should serve as a starting point, and you can customize it based on the specific details of your Jewelry Store eCommerce project. Include information about the types of jewelry you offer, payment gateways integrated, and any other unique features that set your project apart.
