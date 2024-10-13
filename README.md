@@ -1,7 +1,7 @@
 # Ruby Jewellery 💍🛍️
 
 
-This project is an online platform for purchasing exquisite jewelry items. The application is designed to provide a seamless shopping experience for users interested in high-quality jewelry.
+This project is an online platform for purchasing exquisite jewellery items. The application is designed to provide a seamless shopping experience for users interested in high-quality jewellery.
 
 ## Features
 

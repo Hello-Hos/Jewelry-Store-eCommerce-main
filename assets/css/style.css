@@ -1,6 +1,6 @@
 /*------------------------------------------------------------------
 [Master Stylesheet]
-Project Name: DNX - Jewelry Store eCommerce
+Project Name: Ruby Jewellery
 Version: 1.0.0
 Author: HasTech
 Website: http://devitems.com
@@ -861,7 +861,7 @@ a {
     }
     
     #header-area .site-settings {
-        background-color: #fff;
+        background-color: #e7e0e0;
         -webkit-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
         -moz-box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
         box-shadow: 0 2px 3px rgba(0, 0, 0, 0.3);
